@@ -1,0 +1,10 @@
+recompilar o kernel -------------------------------------------------
+codigo digitado na ultima  aula. 
+proces_v1;c 
+
+"-o" (indica saida)
+
+gcc nomearquivo -o process.out //para compilar o codigo e salvalo no segundo arquivo.'
+
+cd /proc/ //diretorio de sistema. consta todo
+cd /pidDoProcesso //para entrar na pasta do processo. 
